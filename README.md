@@ -1,33 +1,19 @@
 # CompetitiveProgramming
-addmod:
 
-arraydec:
+cherry (Java):
 
-cable:
+infinity (Java):
 
-chandies:
+round (Java):
 
-cherry:
+makeit (Java):
 
-chest:
+ebony (Java):
 
-circint:
+arraydec (Java):
 
-classlist:
+medium (Java):
 
-color:
+makeAP(C++):
 
-count:
-
-def:
-
-easysched:
-
-ebony:
-
-employees:
-
-encode:
-
-football scoring:
-
+round (C++):
